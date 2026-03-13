@@ -68,6 +68,18 @@ Validation Loss
 
 Graphs are generated using **Matplotlib**.
 
----
+# 🛠 Technologies Used
 
-# 🔎 Prediction Example
+- Python
+- TensorFlow
+- Keras
+- NumPy
+- Matplotlib
+
+
+# 👨‍💻 Author
+
+Asif  
+BS Computer Science Student  
+Interested in AI Engineering, Machine Learning and Data Science.
+
